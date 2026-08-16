@@ -1,3 +1,4 @@
 {
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "firmware": "https://github.com/Nithin3443/OTA_ESP32/releases/download/v1.1.0/OTA_test1.ino.bin"
 }
