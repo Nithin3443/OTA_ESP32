@@ -1,6 +1,6 @@
 {
   "version": "1.2.0",
-  "firmware": "https://github.com/Nithin3443/OTA_ESP32/releases/download/v1.1.0/OTA_test1.ino.bin",
+  "firmware": "https://github.com/Nithin3443/OTA_ESP32/releases/download/v1.2.0/OTA_test1.ino.bin",
   "size": 1119424,
   "sha256": "68B177CB5A549486729A396DDBBD3840CDB200FFA59ABD5880D9CE44CDEE903C"
 }
